@@ -1,4 +1,4 @@
-SKCraft Launcher
+Smelt Launcher
 ================
 
 This project provides an open-source Minecraft launcher platform for downloading,
@@ -7,9 +7,7 @@ installing, and updating modpacks.
 Introduction
 ------------
 
-This launcher is maintained by sk89q, who writes WorldEdit, WorldGuard, and so on. It has
-been primarily developed for his server, but you can use it for your own modpack or
-server.
+This launcher was originally developed by sk89q, he develops WorldEdit, WorldGuard, and CommandBook along with this launcher. This launcher has been forked and is used for my own personal uses. All info below has been written by sk89q and not me. Enjoy!
 
 * One of Minecraft's oldest launchers -- since Minecraft Alpha
 * Requires almost no configuration files to make a modpack
