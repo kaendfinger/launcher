@@ -11,7 +11,7 @@
 
   <groupId>com.clank</groupId>
   <artifactId>launcher</artifactId>
-  <version>1.0</version>
+  <version>1.0-Beta1</version>
 
   <dependencies>
     <dependency>
